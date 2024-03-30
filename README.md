@@ -4,11 +4,8 @@
 <h2 style="text-align: center;">أسلوب اللعب</h2>
 <h3 style="text-align: center;">كشف حرف<br />إزالة حرف من الخيارات</h3>
 <h3 style="text-align: center;">كشف كل الحروف وتخطي الكلمة.</h3>
-<h3>&nbsp;</h3>
-<h2 style="text-align: center;">&nbsp;</h2>
 <h2 style="text-align: center;">رابط اللعبة على جوجل بلاي :&nbsp;</h2>
 <p style="text-align: center;"><a href="https://play.google.com/store/apps/details?id=com.almaany.tahdikalimat&amp;hl=ar&amp;gl=US">https://play.google.com/store/apps/details?id=com.almaany.tahdikalimat&amp;hl=ar&amp;gl=US</a></p>
-<p style="text-align: center;">&nbsp;</p>
 <h2 style="text-align: center;">رابط اللعبة على ابل&nbsp;ستور :&nbsp;</h2>
 <p style="text-align: center;"><a href="https://apps.apple.com/tr/developer/atef-sharia/id952606462">https://apps.apple.com/tr/developer/atef-sharia/id952606462</a></p>
 <h2 style="text-align: center;">&nbsp;</h2>
